@@ -1,10 +1,10 @@
 # NECROMANCER
 
                                                  
-  _ _  ___ __ _ _ ___ _ __  __ _ _ _  __ ___ _ _ 
+```  _ _  ___ __ _ _ ___ _ __  __ _ _ _  __ ___ _ _ 
  | ' \/ -_) _| '_/ _ \ '  \/ _` | ' \/ _/ -_) '_|
  |_||_\___\__|_| \___/_|_|_\__,_|_||_\__\___|_|  
-                                                 
+```                                                 
 
 ![Stars](https://img.shields.io/github/stars/403-Forbidden-hax/NECROMANCER?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/403-Forbidden-hax/NECROMANCER?style=for-the-badge)
